@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.hero {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.category-icons {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.category-icon {
+    margin: 0 15px;
+    text-align: center;
+}
+
+.artwork {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.artwork-item {
+    margin: 10px;
+    width: 200px;
+}
+
+.service-section {
+    background-color: #ffcc80; /* 원하는 배경색으로 변경 */
+    padding: 40px 0;
+}
+
+.service-section h2 {
+    margin-bottom: 30px;
+}
+
+.service-section .row {
+    margin: 0;
+}
